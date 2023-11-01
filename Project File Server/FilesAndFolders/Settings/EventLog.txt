@@ -1,0 +1,59 @@
+<main>
+	<event>
+		<userID>
+			1
+		</userID>
+		<keyID>
+			1
+		</keyID>
+		<date>
+		</date>
+		<time>
+		</time>
+		<path>
+		</path>
+	</event>
+</main>
+
+<keys>
+	<key>
+		<id>
+			1
+		</id>
+		<description>
+			Folder Created
+		</description>
+	</key>
+	<key>
+		<id>
+			2
+		</id>
+		<description>
+			Folder Edited
+		</description>
+	</key>
+	<key>
+		<id>
+			3
+		</id>
+		<description>
+			Folder Deleted
+		</description>
+	</key>
+	<key>
+		<id>
+			4
+		</id>
+		<description>
+			File Uploaded
+		</description>
+	</key>
+	<key>
+		<id>
+			5
+		</id>
+		<description>
+			File Deleted
+		</description>
+	</key>
+</keys>
